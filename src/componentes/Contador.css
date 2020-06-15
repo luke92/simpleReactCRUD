@@ -1,0 +1,12 @@
+.Contador {
+
+}
+
+.Contador .jumbotron {
+    background-color: purple;
+    color: white;
+  }
+  
+.Contador hr {
+    background-color: #ddd;
+}
